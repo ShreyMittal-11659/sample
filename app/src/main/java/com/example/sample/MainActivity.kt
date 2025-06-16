@@ -18,5 +18,3 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
-
-// CHANGES to sample
